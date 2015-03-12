@@ -187,11 +187,7 @@
 					</div>	   
 				</fieldset>
 
-              <div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
-                  <div
-                      class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#home" data-transition="<?php echo $transitionefect ?>">Home</a>
-                  </div>
-              </div>
+
               <div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
                   <div
                       class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#home" data-transition="<?php echo $transitionefect ?>">About </a>
@@ -294,7 +290,7 @@
 				<div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
 					<section id="navigation-menu">
 						<ul id="menu">
-							<li><a href="#home" data-transition="<?php echo $transitionefect ?>">Home</a></li>
+							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Home</a></li>
                             <li><a href="#home" data-transition="<?php echo $transitionefect ?>">About</a></li>
                             <li><a href="#home" data-transition="<?php echo $transitionefect ?>">Testimonials</a></li>
                             <li><a href="#home" data-transition="<?php echo $transitionefect ?>">Customer Service</a></li>
@@ -331,7 +327,7 @@
 				<div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
 					<section id="navigation-menu-contact">
 							<ul id="menu-contact">
-                                <li><a href="#home" data-transition="<?php echo $transitionefect ?>">Home</a></li>
+                                <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Home</a></li>
                                 <li><a href="#home" data-transition="<?php echo $transitionefect ?>">About</a></li>
                                 <li><a href="#home" data-transition="<?php echo $transitionefect ?>">Testimonials</a></li>
                                 <li><a href="#home" data-transition="<?php echo $transitionefect ?>">Customer Service</a></li>

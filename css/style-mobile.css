@@ -199,7 +199,7 @@ input#contact-submit-dugme {
 .callbacks_nav {
   position: absolute;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
-  top: 17%;
+  top: 210px;
   left: 0;
   opacity: 0.7;
   z-index: 3;
